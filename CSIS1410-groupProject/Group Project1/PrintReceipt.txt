@@ -1,0 +1,19 @@
+Hawaiian: $10.99
+Pepperoni: $12.99
+Veggie: $14.99
+Cheese: $10.99
+Chicken: $12.99
+Fish: $14.99
+Fish: $5.99
+Street: $2.99
+Veggies: $4.99
+Regular: $1.99
+HQ: $2.99
+Milk Coffee: $3.99
+Orange: $1.99
+Mango: $1.99
+Coctail: $3.99
+Coca~cola: $0.99
+Orange: $0.99
+Sprite: $0.99
+Total: $111.82
